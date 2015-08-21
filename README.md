@@ -1,2 +1,2 @@
 # microblog
-Pretty creative, isn't is?
+Pretty creative, isn't it?
